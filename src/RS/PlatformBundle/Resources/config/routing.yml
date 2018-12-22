@@ -1,0 +1,8 @@
+rs_platform_homepage:
+    path:     /
+    defaults: { _controller: RSPlatformBundle:Default:index }
+
+
+hello_the_world:
+    path:     /hello-world
+    defaults: { _controller: RSPlatformBundle:Advert:index }
